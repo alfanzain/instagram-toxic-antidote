@@ -1,0 +1,26 @@
+{
+    "name": "Instagram Toxic Antidote",
+    "version": "1.0.0",
+    "description": "I am toxic. I spread toxic comments. But, I want to repent. I need to delete all my toxic track record. I need the antidote.",
+    "permissions": [
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://*.instagram.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.instagram.com/*"
+            ],
+            "js": [
+                "contentScript.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_title": "Antidote",
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
