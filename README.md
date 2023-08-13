@@ -31,6 +31,7 @@
   <a href="https://github.com/alfanzain/instagram-toxic-antidote">
     <img src="toxic-comment-example-it-is-not-mine-trust-me.png" alt="Logo" width="80" height="80">
   </a>
+  <br />Note: it's just random example. It's not mine. Trust me.
 
   <h3 align="center">Instagram Toxic Antidote</h3>
 
