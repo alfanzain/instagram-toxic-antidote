@@ -83,11 +83,11 @@ I spread toxic comments.
 
 But, I want to repent.
 
-I feel guilty.
+I feel so much guilty.
 
-I need to delete all my toxic track records.
+I need to clear my toxic track records completely.
 
-I need the antidote.
+I need the **antidote**.
 
 
 
