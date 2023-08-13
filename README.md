@@ -36,6 +36,9 @@
   <h3 align="center">Instagram Toxic Antidote</h3>
 
   <p align="center">
+    TLDR; Your Own Instagram Profile Comment Auto Remover  
+    <br />
+    <br />
     I just feel ashamed about my comments recently. I don't want my friends or recruiters find my silly comments. But I don't have much time to delete it all. So, I built this.
     <br />
     <br />
