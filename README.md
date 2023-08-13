@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alfanzain/instagram-toxic-antidote">
-    <img src="toxic-comment-example-it-is-not-mine-trust-me.png" alt="Logo" width="80" height="80">
+    <img src="toxic-comment-example-it-is-not-mine-trust-me.png" alt="Logo" width="200">
   </a>
   <br />Note: it's just random example. It's not mine. Trust me.
 
