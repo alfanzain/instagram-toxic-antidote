@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alfanzain/instagram-toxic-antidote">
-    <img src="toxic-comment-example-it-is-not-mine-trust-me.png" alt="Logo" width="200">
+    <img src="toxic-comment-example-it-is-not-mine-trust-me-more-friendly.png" alt="Logo" width="200">
   </a>
   <br />Note: It's just random example. It's not mine. Trust me.
 
@@ -91,8 +91,6 @@ I feel so much guilty.
 I need to clear my toxic track records completely.
 
 I need the **antidote**.
-
-
 
 Please don't use this as illegal actions.
 
