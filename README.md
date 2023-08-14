@@ -78,19 +78,26 @@
 
 ## About The Project
 
-I am toxic.
+_Poem_:
 
-I **WAS** toxic.
 
-I spread toxic comments.
+> _I am toxic._
+> 
+> _I **WAS** toxic._
+> 
+> _I spread toxic comments._
+> 
+> _But, I want to repent._
+> 
+> _I feel so much guilty._
+> 
+> _I need to clear my toxic track records completely._
+> 
+> _I need the **antidote**._
 
-But, I want to repent.
 
-I feel so much guilty.
 
-I need to clear my toxic track records completely.
-
-I need the **antidote**.
+This extension removes ALL YOUR COMMENTS. You can't filter those yet. So if you are going to remove all comment regarding the toxicity level. You don't care about popularity through comments, this extension is your solution.
 
 Please don't use this as illegal actions.
 
