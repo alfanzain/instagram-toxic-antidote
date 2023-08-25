@@ -28,9 +28,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alfanzain/instagram-toxic-antidote">
+<!--   <a href="https://github.com/alfanzain/instagram-toxic-antidote">
     <img src="toxic-comment-example-it-is-not-mine-trust-me-more-friendly.png" alt="Logo" width="200">
-  </a>
+  </a> -->
   <br />Note: It's just random example. It's not mine. Trust me.
 
   <h3 align="center">Instagram Toxic Antidote</h3>
